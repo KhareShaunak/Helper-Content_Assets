@@ -1,0 +1,10 @@
+D:\Shaunak\FEConsoleApplication\FEConsoleApplication\bin\Debug\FEConsoleApplication.exe.config
+D:\Shaunak\FEConsoleApplication\FEConsoleApplication\bin\Debug\FEConsoleApplication.exe
+D:\Shaunak\FEConsoleApplication\FEConsoleApplication\bin\Debug\FEConsoleApplication.pdb
+D:\Shaunak\FEConsoleApplication\FEConsoleApplication\bin\Debug\EntityFramework.dll
+D:\Shaunak\FEConsoleApplication\FEConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+D:\Shaunak\FEConsoleApplication\FEConsoleApplication\bin\Debug\EntityFramework.xml
+D:\Shaunak\FEConsoleApplication\FEConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+D:\Shaunak\FEConsoleApplication\FEConsoleApplication\obj\Debug\FEConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Shaunak\FEConsoleApplication\FEConsoleApplication\obj\Debug\FEConsoleApplication.exe
+D:\Shaunak\FEConsoleApplication\FEConsoleApplication\obj\Debug\FEConsoleApplication.pdb
